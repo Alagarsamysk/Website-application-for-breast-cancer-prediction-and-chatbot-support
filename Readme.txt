@@ -7,9 +7,8 @@ Breast Cancer Prediction
 Early detection is crucial in the fight against breast cancer. Our state-of-the-art prediction model uses the latest machine learning techniques to analyze medical data and predict the likelihood of breast cancer. By entering relevant health information, users can receive a personalized risk assessment, empowering them to make informed decisions about their health.
 
 Features:
-
-    Accurate Risk Assessment: Leveraging large datasets and advanced algorithms to provide highly accurate predictions.
-    User-Friendly Interface: Simple and intuitive design, making it easy for users to input data and understand results.
+ Accurate Risk Assessment: Leveraging large datasets and advanced algorithms to provide highly accurate predictions.
+ User-Friendly Interface: Simple and intuitive design, making it easy for users to input data and understand results.
     Confidentiality: All user data is encrypted and securely stored, ensuring privacy and confidentiality.
 
 Chatbot Support
@@ -18,9 +17,9 @@ Our intelligent chatbot offers round-the-clock support, providing users with ins
 
 Features:
 
-    24/7 Availability: Get answers to your questions any time, day or night.
-    Personalized Responses: The chatbot learns from interactions to provide more tailored support.
-    Resource Hub: Access a wealth of information, including articles, videos, and links to reputable sources.
+24/7 Availability: Get answers to your questions any time, day or night.
+Personalized Responses: The chatbot learns from interactions to provide more tailored support.
+Resource Hub: Access a wealth of information, including articles, videos, and links to reputable sources.
 
 Get Started
 
