@@ -9,7 +9,7 @@ Early detection is crucial in the fight against breast cancer. Our state-of-the-
 Features:
  Accurate Risk Assessment: Leveraging large datasets and advanced algorithms to provide highly accurate predictions.
  User-Friendly Interface: Simple and intuitive design, making it easy for users to input data and understand results.
-    Confidentiality: All user data is encrypted and securely stored, ensuring privacy and confidentiality.
+ Confidentiality: All user data is encrypted and securely stored, ensuring privacy and confidentiality.
 
 Chatbot Support
 
